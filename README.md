@@ -85,7 +85,6 @@ Once the user has clicked on "Generate", RGB and semantic datas can be found in 
 
 ### 👋 Contributors
 
-- Lead Dev - [Jehanne Dussert](https://github.com/JehanneDussert/)
-- Dev - [Rémi Giner](https://github.com/remisansfamine/)
-- Dev - [Nobila Traore](https://github.com/notraore/)
-- Game Artist - [William Lahemar](https://github.com/willocks)
+- Lead Dev - [Artem Sorokin](https://github.com/JsCrazy1202/)
+- Dev - [Daniel Lee](https://github.com/legenddev1202/)
+- Game Artist - [Denis Wong](https://github.com/denis777)
